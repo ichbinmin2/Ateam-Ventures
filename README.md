@@ -77,7 +77,7 @@ src
 
 <br />
 
-## ✅ 과제 구현 주요 내용
+## ✅ 과제 주요 구현 내용
 
 ✓ json-server&dev-server 세팅(concurrently)하여 가상의 데이터 서버 구성
 
