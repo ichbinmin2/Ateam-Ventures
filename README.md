@@ -1,4 +1,4 @@
-<h1 align="middle">2022 원티드 프리온보딩 프론트엔드 코스 기업과제 - 에이팀벤처스</h1>
+<h1 align="middle">2022 원티드 프리온보딩 프론트엔드 코스 기업과제-에이팀벤처스</h1>
 <p align="middle">⚡️ React와 Typescript, Json-server의 API를 이용하여 구현한 견적 요청 어플리케이션</p>
 <p align="middle">
 <img width="1656" alt="image" src="https://user-images.githubusercontent.com/53133662/177025012-8f3db8cc-32c6-429d-b01a-7b43289a03ea.png">
